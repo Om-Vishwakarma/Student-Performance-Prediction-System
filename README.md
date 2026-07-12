@@ -6,26 +6,26 @@ This project predicts student academic performance using Machine Learning.
 
 ## Features
 
-- Attendance Calculation
-- Final Score Prediction
-- AI Recommendations
-- Performance Dashboard
-- Report Download
+* Attendance Calculation
+* Final Score Prediction
+* AI Recommendations
+* Performance Dashboard
+* Report Download
 
 ## Technologies
 
-- Python
-- Streamlit
-- Pandas
-- NumPy
-- Scikit-Learn
-- Joblib
+* Python
+* Streamlit
+* Pandas
+* NumPy
+* Scikit-Learn
+* Joblib
 
 ## Machine Learning Models
 
-- Linear Regression
-- Random Forest
-- XGBoost
+* Linear Regression
+* Random Forest
+* XGBoost
 
 ## Folder Structure
 
@@ -35,12 +35,11 @@ Notebook/
 
 Model/
 
-Streamlit_App/
+Streamlit\_App/
 
 README.md
 
 requirements.txt
 
-## Developed By
+## 
 
-Om Vishwakarma
